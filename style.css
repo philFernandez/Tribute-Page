@@ -1,4 +1,12 @@
+header {
+  text-align: center;
+}
+
 img {
-  width: 1016px;
-  height: 571.5px;
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: auto;
+  max-width: 1016px;
+  max-height: 571.5px;
 }
