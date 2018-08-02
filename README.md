@@ -1,2 +1,1 @@
-# Tribute-Page
-FreeCodeCamp exercise. 
+# Free Code Camp Tribute Page Exercise
