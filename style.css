@@ -1,12 +1,40 @@
-header {
+body {
+  font-family: "Comfortaa", cursive;
+  background: CornSilk;
+}
+
+#main {
   text-align: center;
 }
 
-img {
+#img-caption {
+  font-family: sans-serif;
+  /*font-size: 14px;*/
+}
+
+#image {
   display: block;
+  /*border: 2px solid SlateGrey;*/
+  border-radius: 5px;
   margin: auto;
   width: 100%;
   height: auto;
   max-width: 1016px;
   max-height: 571.5px;
+}
+
+#tribute-info {
+  min-width: 270px;
+  margin: auto;
+  text-align: left;
+  background: DimGrey;
+  color: white;
+  /*border: 2px solid SlateGrey;*/
+  border-radius: 5px;
+  width: 75%;
+  line-height: 2;
+}
+
+#tribute-info  p {
+  padding: 16px;
 }
